@@ -17,3 +17,8 @@ A Generalized Nondeterministic Finite Automaton (GNFA) is an NFA wherein the tra
 Ex: GNFA
 ![image](https://github.com/user-attachments/assets/1589dbbd-344e-4e2d-a47f-da874cc5738c)
 
+DFA to GNFA:
+![image](https://github.com/user-attachments/assets/e54911c3-d509-4bc7-997b-9e74e6849ffa)
+![image](https://github.com/user-attachments/assets/1e87d836-2f93-4fa9-b883-dd61943d57e4)
+
+
