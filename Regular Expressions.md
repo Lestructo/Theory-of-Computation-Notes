@@ -22,4 +22,12 @@ DFA to GNFA:
 ![image](https://github.com/user-attachments/assets/e54911c3-d509-4bc7-997b-9e74e6849ffa)
 ![image](https://github.com/user-attachments/assets/1e87d836-2f93-4fa9-b883-dd61943d57e4)
 
+Converting a DFA to a regular expression
+
+![image](https://github.com/user-attachments/assets/fef5ecd8-de1c-408f-b6c7-1d2567781b72)
+![image](https://github.com/user-attachments/assets/ad86a73b-d0ca-4bb5-84a6-0b12a4925448)
+![image](https://github.com/user-attachments/assets/2e5a7c90-a09b-4c30-a904-4f9452176ca8)
+![image](https://github.com/user-attachments/assets/3545582a-0726-4a33-afe0-39a32090539d)
+![image](https://github.com/user-attachments/assets/6bf613ba-ee15-45cf-8fda-e7c5a61112e9)
+
 
