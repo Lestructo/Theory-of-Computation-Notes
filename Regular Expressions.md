@@ -33,4 +33,9 @@ Converting a DFA to a regular expression
 Theorem 27 (Pumping Lemma)
 - If A is a regular language, then there is a number p (the pumping length)
 where, if s is any string in A of length at least p, then s may be divided into
-three pieces, s = xyz,
+three pieces, s = xyz
+
+![image](https://github.com/user-attachments/assets/57ea9357-6826-4700-9332-a8a6c0429662)
+![image](https://github.com/user-attachments/assets/95a34fb4-baa6-4a6d-8ba0-d4507881fcdc)
+
+
